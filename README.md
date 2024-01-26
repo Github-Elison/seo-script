@@ -7,7 +7,7 @@ Este projeto em Python realiza uma análise básica de SEO de um site, examinand
 1. **Clone este repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/Github-Elison/seo-script)
 Instale as dependências:
 
 bash
